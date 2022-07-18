@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExeFirstStep</string>
+    <string name="congratulations_text">Congratulations...</string>
+    <string name="message_text">You start your journey to became a Android Developer!</string>
+</resources>
